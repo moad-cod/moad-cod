@@ -53,4 +53,4 @@ I'm a full-stack developer and tech enthusiast building smart and scalable appli
 
 ### 📊 Stats
 
-![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moad-cod&show_icons=true&theme=gruvbox)
+![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moad-cod&show_icons=true&theme=radical)
