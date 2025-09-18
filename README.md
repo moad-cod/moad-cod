@@ -14,7 +14,15 @@ I'm a full-stack developer and tech enthusiast building smart and scalable appli
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
@@ -26,7 +34,7 @@ I'm a full-stack developer and tech enthusiast building smart and scalable appli
 
 ### 🔭 I’m currently working on
 - An AI-powered network anomaly detection system with Python and Spring Boot
-- Full-stack web and mobile applications with NodeJS and Flutter  
+- Full-stack web and mobile applications with NodeJS, Flutter, and Angular  
 
 ### 🌱 I’m currently learning
 - Machine Learning, Artificial Intelligence, and advanced networking  
@@ -39,10 +47,10 @@ I'm a full-stack developer and tech enthusiast building smart and scalable appli
 - Frontend/UI development to make applications more engaging and user-friendly  
 
 ### 💬 Ask me about
-- Java, Python, C/C++, NodeJS, Flutter, Spring Boot, networking, and cybersecurity  
+- Java, Python, C/C++, NodeJS, Flutter, Dart, Angular, React, Spring Boot, Django, TypeScript, Tailwind CSS, Bootstrap, networking, and cybersecurity  
 
 ---
 
 ### 📊 Stats
 
-![Moad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moad-cod&show_icons=true&theme=gruvbox)
+![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moad-cod&show_icons=true&theme=gruvbox)
