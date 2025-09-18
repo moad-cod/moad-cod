@@ -1,3 +1,4 @@
+![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moad-cod&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Mouad</h1>
 <h3 align="center">A full-stack developer focused on systems, networking, and software innovation</h3>
 
