@@ -2,8 +2,7 @@
 
 **`Full-Stack Developer | AI & Networking Enthusiast`**
 
-I'm a full-stack developer and tech enthusiast building smart and scalable applications one step at a time. I work on projects from planning and design all the way to implementation, solving real-world problems with code. My focus is on backend development, network systems, and AI-powered solutions.  
-
+I'm a Data Scientist passionate about AI, Machine Learning, Deep Learning, and Big Data. I design and build smart, secure, and scalable systems that bridge data-driven intelligence, backend engineering, and modern web/app development. My work focuses on turning complex data into real-world solutions powered by intelligent technology.
 ---
 
 ### 🧰 Languages and Tools
