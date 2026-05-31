@@ -1,55 +1,51 @@
-# 🏄‍♂️ Moad Elbaz
+# 🧠 Moad Elbaz
+**`Big Data | AI | ML | Full-Stack`**
 
-**`Full-Stack Developer | AI & Networking Enthusiast`**
+Data Scientist building intelligent, production-ready systems — from scalable data pipelines to deep learning models and LLM-powered applications. Passionate about turning raw data into actionable intelligence.
 
-I'm a Data Scientist passionate about AI, Machine Learning, Deep Learning, and Big Data. I design and build smart, secure, and scalable systems that bridge data-driven intelligence , and modern web/app development. My work focuses on turning complex data into real-world solutions powered by intelligent technology.
 ---
 
-### 🧰 Languages and Tools
+### 🧠 AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-185FA5?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-185FA5?style=flat)
+![NLP](https://img.shields.io/badge/NLP-993556?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-993556?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-993556?style=flat)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation_Systems-993556?style=flat)
+![Retrieval Systems](https://img.shields.io/badge/Retrieval_Systems-993556?style=flat)
 
+### 🗄️ Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-0F6E56?style=flat)
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<br />
+### 🛠️ Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+
+### ⚙️ Infra & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 ---
 
-### 🔭 I’m currently working on
-- An AI-powered network anomaly detection system with Python and Spring Boot
-- Full-stack web and mobile applications with NodeJS, Flutter, and Angular  
+### 🔭 Currently building
+- AI-powered operational-intelligence-platform 
 
-### 🌱 I’m currently learning
-- Machine Learning, Artificial Intelligence, and advanced networking  
+### 🌱 Currently learning
+- Advanced ML systems, LLM fine-tuning & retrieval-augmented generation
 
-### 👯 I’m looking to collaborate on
-- Open-source backend, AI, and network security projects
-- Full-stack applications that solve real-world problems  
-
-### 🤝 I’m looking for help with
-- Frontend/UI development to make applications more engaging and user-friendly  
+### 👯 Looking to collaborate
+- Open-source AI, NLP, and data engineering projects
 
 ### 💬 Ask me about
-- Java, Python, C/C++, NodeJS, Flutter, Dart, Angular, React, Spring Boot, Django, TypeScript, Tailwind CSS, Bootstrap, networking, and cybersecurity  
+- PyTorch, RAG, FastAPI, LangChain, Airflow, dbt, Spring Boot
 
 ---
 
-### 📊 Stats
-
+### 📊 GitHub Stats
 ![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moad-cod&show_icons=true&theme=radical)
