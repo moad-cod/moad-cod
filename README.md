@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:1D4ED8,75:0F766E,100:111827&text=Moad%20Elbaz&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Big%20Data%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Moad Elbaz - Data Scientist, AI Engineer, Big Data Builder" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:020617,38:1D4ED8,72:0F766E,100:111827&text=Moad%20Elbaz&fontColor=FFFFFF&fontSize=56&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Big%20Data%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Moad Elbaz - Data Scientist, AI Engineer, Big Data Builder" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Machine+Learning+Systems+%7C+RAG+%7C+Data+Engineering;From+research+notebooks+to+production-ready+AI;Building+intelligent+software+with+measurable+impact" alt="Animated headline for Moad Elbaz" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=860&lines=Machine+Learning+Systems+%7C+RAG+%7C+Data+Engineering;From+scientific+experiments+to+production-ready+AI;Building+intelligent+software+with+measurable+impact" alt="Animated headline for Moad Elbaz" />
   </a>
 
   <br />
@@ -11,44 +11,41 @@
 
   <img src="https://komarev.com/ghpvc/?username=moad-cod&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/moad-cod?style=for-the-badge&logo=github&color=0D9488&labelColor=111827" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data-7C3AED?style=for-the-badge&labelColor=111827" alt="Focus: AI, ML, Data" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20DATA-7C3AED?style=for-the-badge&labelColor=111827" alt="Focus: AI, ML, Data" />
 
 </div>
 
 ---
 
-## Professional Profile
+<div align="center">
 
-I am a **Data Scientist and AI Engineer** focused on building intelligent systems that move from experimentation to real production value. My work connects machine learning, data engineering, backend development, and LLM applications to solve practical problems with reliable software.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=620&lines=Professional+Profile;Applied+AI+%2B+Data+Science+%2B+Engineering" alt="Professional profile animated title" />
 
-```text
-Core direction:
-Applied AI + measurable data products + production-grade engineering.
-```
+</div>
 
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Research Mindset</strong>
-      <br />
-      Model experimentation, evaluation, NLP, retrieval, recommendation systems, and deep learning workflows.
-    </td>
-    <td width="33%">
-      <strong>Engineering Execution</strong>
-      <br />
-      FastAPI services, Spring Boot backends, Dockerized environments, clean APIs, and Linux-based development.
-    </td>
-    <td width="33%">
-      <strong>Data Foundation</strong>
-      <br />
-      Data pipelines, orchestration, transformation, analytics layers, and scalable big-data thinking.
-    </td>
-  </tr>
-</table>
+I am a **Data Scientist and AI Engineer** focused on turning data, models, and backend systems into intelligent products. My work connects scientific thinking with production-grade engineering: experimentation, evaluation, data pipelines, APIs, deployment, and continuous improvement.
+
+> **Core direction:** applied AI, measurable data products, reliable ML systems, and clean software delivery.
+
+**Scientific Thinking**
+
+`model evaluation` `NLP` `retrieval quality` `recommendation systems` `deep learning experiments`
+
+**Engineering Execution**
+
+`FastAPI services` `Spring Boot backends` `Docker workflows` `Linux tooling` `clean APIs`
+
+**Data Foundation**
+
+`data orchestration` `analytics layers` `dbt transformations` `pipeline reliability` `big-data design`
 
 ---
 
-## Current Work
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,50:1D4ED8,100:0F766E&text=Current%20Work&fontColor=FFFFFF&fontSize=24&animation=twinkling" alt="Current Work" width="100%" />
+
+</div>
 
 - Building **AI-powered operational intelligence platforms**
 - Improving **RAG pipelines, retrieval quality, and LLM evaluation**
@@ -57,68 +54,82 @@ Applied AI + measurable data products + production-grade engineering.
 
 ---
 
-## Science, AI & Engineering Toolkit
-
 <div align="center">
 
-### AI, Machine Learning & LLMs
-![Python](https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-B91C1C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0369A1?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4338CA?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-134E4A?style=for-the-badge&logo=langchain&logoColor=white)
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Science%2C+AI+%26+Engineering+Toolkit;Tools+I+use+to+build+intelligent+systems" alt="Toolkit animated title" />
 
-### Data Platforms & Analytics
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-075985?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-C2410C?style=for-the-badge&logo=dbt&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-155E75?style=for-the-badge)
-![Retrieval Systems](https://img.shields.io/badge/Retrieval%20Systems-4F46E5?style=for-the-badge)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-9333EA?style=for-the-badge)
+  <br />
+  <br />
 
-### Backend, Infrastructure & Delivery
-![FastAPI](https://img.shields.io/badge/FastAPI-047857?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B45309?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-15803D?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-334155?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,java,spring,docker,linux,git&theme=dark" alt="Core engineering tools" />
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-0369A1?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-4338CA?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-134E4A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Apache%20Airflow-075985?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/dbt-C2410C?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Big%20Data-155E75?style=for-the-badge" alt="Big Data" />
+  <img src="https://img.shields.io/badge/Retrieval%20Systems-4F46E5?style=for-the-badge" alt="Retrieval Systems" />
+  <img src="https://img.shields.io/badge/Recommendation%20Systems-9333EA?style=for-the-badge" alt="Recommendation Systems" />
 
 </div>
 
 ---
 
-## Engineering Focus For 2026
+<div align="center">
 
-<table>
-  <tr>
-    <td width="25%"><strong>01. Retrieval</strong><br />Better indexing, ranking, chunking, and evaluation for RAG systems.</td>
-    <td width="25%"><strong>02. ML Systems</strong><br />Reliable model workflows from experiment tracking to deployment.</td>
-    <td width="25%"><strong>03. Data Products</strong><br />Pipelines and analytics layers that support real decisions.</td>
-    <td width="25%"><strong>04. Production AI</strong><br />APIs, observability, testing, and human-centered automation.</td>
-  </tr>
-</table>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:020617,45:1D4ED8,100:0F766E&text=2026%20Engineering%20Map&fontColor=FFFFFF&fontSize=32&animation=fadeIn" alt="2026 Engineering Map" width="100%" />
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Data Sources] --> B[Clean Pipelines]
+    B --> C[Feature + Knowledge Layer]
+    C --> D[ML / NLP / RAG Models]
+    D --> E[FastAPI + Spring Services]
+    E --> F[Production Intelligence]
+    F --> G[Evaluation + Monitoring]
+    G --> C
+```
+
+**2026 priorities:** stronger retrieval, reliable ML workflows, analytics-ready data products, production observability, and useful AI automation.
 
 ---
 
-## GitHub Activity
-
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moad-cod&theme=github_dark" alt="Moad Elbaz GitHub profile details" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=GitHub+Activity+%26+Engineering+Signals;Contributions%2C+languages%2C+and+coding+patterns" alt="GitHub Activity animated title" />
 
   <br />
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moad-cod&theme=github_dark" alt="Moad Elbaz repositories per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moad-cod&theme=github_dark" alt="Moad Elbaz most committed languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moad-cod&theme=react-dark&hide_border=true&area=true&custom_title=Moad%20Elbaz%20Contribution%20Graph" alt="Moad Elbaz GitHub contribution graph" width="100%" />
 
   <br />
   <br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moad-cod&theme=github_dark" alt="Moad Elbaz GitHub contribution stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moad-cod&theme=github_dark&utcOffset=1" alt="Moad Elbaz productive coding time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moad-cod&theme=github_dark" alt="Moad Elbaz GitHub profile details graph" width="100%" />
+
+  <br />
+  <br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moad-cod&theme=github_dark" alt="Moad Elbaz repositories per language graph" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moad-cod&theme=github_dark" alt="Moad Elbaz most committed language graph" width="49%" />
+
+  <br />
+  <br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moad-cod&theme=github_dark" alt="Moad Elbaz GitHub contribution stats graph" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moad-cod&theme=github_dark&utcOffset=1" alt="Moad Elbaz productive coding time graph" width="49%" />
 
 </div>
 
